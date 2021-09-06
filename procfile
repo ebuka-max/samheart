@@ -1,0 +1,1 @@
+web: gunicorn samheart_try.wsgi --log-file -
